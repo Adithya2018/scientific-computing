@@ -1,0 +1,3 @@
+A random text file to check whether the python program can read the file.
+Hopefully it can read it. 
+Let's find out for real now!Let's try some more text lines2Random stuff right now'\n', more random stuff coming your way \nRandom
